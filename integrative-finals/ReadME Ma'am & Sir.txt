@@ -2,3 +2,8 @@ Good day, Ma'am! We are having problems on the route, it doesn't work when we se
 To open our Final Activity we have to type this on the Search bar and it works perfectly. Thank you!
 
 search bar: http://127.0.0.1:8000/products
+
+Group 8:
+Panis Jr., Ramel
+Permejo, Andrew
+Romawak, Matt Christopher
